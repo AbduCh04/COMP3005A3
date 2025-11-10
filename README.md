@@ -7,3 +7,6 @@ Use the init.sql file and open it on pgAdmin4 to create the tables and the initi
 
 afterwards, simply running the java Main function would start a simple CLI interface with options to modify the database.
 
+Here is a link including a video demonstration of the CLI app functioning and live updates on the database side as well: 
+https://drive.google.com/file/d/1ax7ZAChwk2Qk7-PF9ozH3abX0ape4tr8/view?usp=sharing
+
